@@ -1,6 +1,6 @@
 
 預覽網址:  
-https://ninja-list-m7nktxyaw-nalocal.vercel.app
+https://ninja-list-nalocal.vercel.app
 
 ---
 
